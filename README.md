@@ -1,2 +1,3 @@
-# Hello-world
-Hi this is my first repostery
+story.txt
+Story-joe-edit.txt
+Story-joe-edit-reviewed.txt
